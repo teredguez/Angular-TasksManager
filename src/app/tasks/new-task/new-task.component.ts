@@ -31,4 +31,5 @@ export class NewTaskComponent {
     this.close.emit();
 
   }
+  
 }
